@@ -1,0 +1,3 @@
+[submodule "themes/digit"]
+    path = themes/digit
+    url = https://github.com/omar-alzant/mySite.git
