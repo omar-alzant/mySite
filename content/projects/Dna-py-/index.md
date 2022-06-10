@@ -4,7 +4,7 @@ date: 2022-06-08
 draft: false
 project_tags: ["python"]
 status: "python"
-weight: 1
+weight: 3
 summary: "Implement a program that identifies a person based on their DNA.
 "
 links:

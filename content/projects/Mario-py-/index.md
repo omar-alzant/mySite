@@ -2,9 +2,9 @@
 title: "Mario Pyramid"
 date: 2022-06-08
 draft: false
-project_tags: ["python"]
-status: "python"
-weight: 5
+project_tags: ["python","cpp"]
+status: "python cpp"
+weight: 6
 summary: "Implement a program that prints out a double half-pyramid of a specified height, per the below.
 "
 links:
@@ -23,7 +23,7 @@ links:
 
 </br>
 
-Code:
+Code -Py- :
 
 ```python
 from cs50 import get_int
@@ -43,6 +43,48 @@ nbr = get_post_int()
 for i in range(1, nbr+1):
     print(' ' * (nbr - i) + '#' * i + ' ' * 2 + '#' * i)
 ```
+
+***
+
+Code -C- :
+
+```c
+#include <stdio.h>
+#include <cs50.h>
+
+int main(void)
+{
+
+    int n;
+//do
+    do
+    {
+        n = get_int("enter  the heigth of pyram : ");
+        for (int i = 1 ; i <= n ; i++)
+        {
+            for (int j = 1 ; j <= n - i ; j++)
+            {
+                printf(" ");
+            }
+            for (int k = n - i ; k < n  ; k++)
+            {
+                printf("#");
+            }
+                printf(" ");
+                printf(" ");
+        for (int k = n - i ; k < n  ; k++)
+            {
+                printf("#");
+            }
+            printf("\n");
+        }
+    }
+    while (n < 1 || n > 8);
+}
+
+```
+
+***
 
 </br>
 </br>

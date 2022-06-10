@@ -4,7 +4,7 @@ date: 2022-06-08
 draft: false
 project_tags: ["sql"]
 status: "sql"
-weight: 6
+weight: 10
 summary: "Write SQL queries to solve a mystery.
 
 "
@@ -26,7 +26,7 @@ links:
 
 <strong>
     All the files is included in the github page
-    <a href="https://github.com/omar-alzant/files-for-SQLite3"> Here. </a>
+    <a href="https://github.com/omar-alzant/files-for-mySite"> Here. </a>
 </strong>
 
 </br>
