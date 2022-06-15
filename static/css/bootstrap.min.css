@@ -5971,6 +5971,7 @@ fieldset:disabled .btn {
   left: 0;
   z-index: 1;
   content: "";
+  margin: 10px;
 }
 .text-truncate {
   overflow: hidden;
