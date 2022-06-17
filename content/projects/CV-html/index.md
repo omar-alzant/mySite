@@ -101,7 +101,7 @@ Code -Html- :
         <!-- <button onclick="myFunction()">Toggle dark mode</button> -->
 
         <div class="profile-picture">
-          <img src="./prof.png" alt="myphoto">
+          <img src="./prof.png" loading="lazy"  alt="myphoto">
         </div>
         <div class="contact-container">
           <ul class="contact-list">

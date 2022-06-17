@@ -26,7 +26,7 @@ links:
 
 In this project, we use the `Flask`, a python web  framework that provide useful tools and features that make creating web app in Python easier...
 
-<img src="./flask.png">
+<img src="./flask.png" loading="lazy">
 
 
 YOu can fastly view this 
@@ -39,7 +39,7 @@ Tuterial </a> .
 
 ***
 
-<img src="./result1.png" alt="result-icon" style="max-width: 800px;">
+<img src="./result1.png" loading="lazy" alt="result-icon" style="max-width: 800px;">
 
 </br>
 </br>

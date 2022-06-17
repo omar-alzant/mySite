@@ -128,7 +128,7 @@ int main(int argc, char *argv[])
 
 The result : 
 
-<img src="./result.png" alt="result-icon">
+<img src="./result.png" loading="lazy" alt="result-icon">
 
 ***
 

@@ -52,7 +52,7 @@ The landscape for frontend frameworks has been changing a lot over the last few 
 The Result :
 
 
-<img src="./result.png" alt="result-icon">
+<img src="./result.png" loading="lazy" alt="result-icon">
 
 ***
 

@@ -26,7 +26,7 @@ links:
 
 We use : 
 
- <img src="./all.png" alt="lang-uses" style="max-width: 700px; ">
+ <img src="./all.png" loading="lazy" alt="lang-uses" style="max-width: 700px; ">
 
 
 </br>
@@ -38,7 +38,7 @@ You can <a href="https://omar-alzant.github.io/ROCK-PAPER-SCISSORS/">Try it </a>
 
 The result : 
 
-<img src="./result.png" alt="result-icon" style="max-width:700px;">
+<img src="./result.png" loading="lazy" alt="result-icon" style="max-width:700px;">
 
 ***
 

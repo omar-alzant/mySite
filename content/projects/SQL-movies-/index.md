@@ -56,7 +56,7 @@ $ cat filename.sql | sqlite3 movies.db > output.txt
 
 The Result:
 
-<img src="./sql1.png" style="max-width: 600px;">
+<img src="./sql1.png" loading="lazy" style="max-width: 600px;">
 
 
 </br>

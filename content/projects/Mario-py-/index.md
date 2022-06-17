@@ -105,7 +105,7 @@ Height: 4
 </br>
 
 
-<img src="./featured.png" style="max-width: 600px;" />
+<img src="./featured.png" loading="lazy" style="max-width: 600px;" />
 
 </br>
 </br>

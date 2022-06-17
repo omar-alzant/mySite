@@ -52,15 +52,15 @@ The landscape for frontend frameworks has been changing a lot over the last few 
 
 The Result :
 
-<img src="./result.png" alt="result1-icon">
+<img src="./result.png" loading="lazy" alt="result1-icon">
 
 </br>
 
-<img src="./result2.png" alt="result2-icon">
+<img src="./result2.png" loading="lazy" alt="result2-icon">
 
 </br>
 
-<img src="./result3.png" alt="result3-icon">
+<img src="./result3.png" loading="lazy" alt="result3-icon">
 
 ***
 

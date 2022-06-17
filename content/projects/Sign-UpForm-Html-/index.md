@@ -26,7 +26,7 @@ links:
 
 We use : 
 
-<img src="./all.png" alt="use-icon" style="max-width: 700px; margin: 10px;">
+<img src="./all.png" loading="lazy" alt="use-icon" style="max-width: 700px; margin: 10px;">
 
 
 ***
@@ -46,7 +46,7 @@ You can
 
 The result :
 
-<img src="./form1.png" alt="result-icon" style="max-width: 700px;">
+<img src="./form1.png" loading="lazy"  alt="result-icon" style="max-width: 700px;">
 
 ***
 

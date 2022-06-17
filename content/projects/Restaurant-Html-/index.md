@@ -26,9 +26,9 @@ links:
 
 We use : 
 
-<img src="./all.png" alt="use-icon" style="max-width: 700px; margin: 10px;">
+<img src="./all.png" loading="lazy" alt="use-icon" style="max-width: 700px; margin: 10px;">
 
-<img src="./web.png" alt="use-icon" style="max-width: 700px; margin: 10px;">
+<img src="./web.png" loading="lazy" alt="use-icon" style="max-width: 700px; margin: 10px;">
 
 ***
 

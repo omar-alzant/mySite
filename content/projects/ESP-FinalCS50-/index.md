@@ -292,7 +292,7 @@ Send the level of gas sensor form esp  to G-sheet &amp; website (or IP) using IF
 
 ***********************************
 
-<img src="./data.png" alt="data-icon" style="max-width: 700px;">
+<img src="./data.png" loading="lazy"  alt="data-icon" style="max-width: 700px;">
 
 </br>
 </br>

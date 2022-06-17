@@ -153,7 +153,7 @@ void print_winner(void)
 
 The result : 
 
-<img src="./result.png" alt="result-icon">
+<img src="./result.png" loading="lazy" alt="result-icon">
 
 ***
 
