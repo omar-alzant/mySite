@@ -2,7 +2,7 @@
 title: "Plurality"
 date: 2022-06-08
 draft: false
-project_tags: ["cpp"]
+blog_tags: ["cpp"]
 status: "cpp"
 weight: 7
 summary: "For this program, you’ll implement a program that runs a plurality election.

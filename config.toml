@@ -1,4 +1,4 @@
-baseURL = "https://main--ornate-squirrel-58cd60.netlify.app/"
+baseURL = "https://main--aquamarine-bombolone-2e6487.netlify.app/"
 languageCode = "en-us"
 title = "Omar J Zant"
 themes = "digit"
@@ -8,36 +8,32 @@ copyright = "Omar j Zant ©"
 
 [params]
   name = "Omar J Zant"
-  description = "Red panda living in the eastern Himalayas."
+  description = "Full Stack web Developper."
   initials = "O J Z"
   googleAnalytics = ""
 
   [[params.social]]
     name = "Twitter"
-    link = "#"
+    link = "https://twitter.com/home"
     icon = "fab fa-twitter"
 
   [[params.social]]
     name = "Github"
-    link = "#"
+    link = "https://github.com/omar-alzant"
     icon = "fab fa-github"
 
   [[params.social]]
-    name = "Medium" 
-    link = "#"
-    icon = "fab fa-medium-m"
-
-  [[params.social]]
     name = "LinkedIn"
-    link = "#"
+    link = "https://www.linkedin.com/in/omar-alzant-75566b1a3/"
     icon = "fab fa-linkedin-in"
 
 
 [menu]
   [[menu.main]]
-    name = "Digital Garden"
-    url = "/garden/"
+    name = "Blog"
+    url = "/blog/"
     weight = 1
+
   [[menu.main]]
     name = "Projects"
     url = "/projects/"
@@ -53,8 +49,8 @@ copyright = "Omar j Zant ©"
 
 
 [taxonomies]
-  garden_tags = 'garden_tags'
-  project_tags = 'project_tags'
+  blog_tags = 'blog_tags'
+  # project_tags = 'project_tags'
 
 
 [markup]

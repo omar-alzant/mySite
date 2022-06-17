@@ -2,7 +2,7 @@
 title: "Rock-Paper-Scissors"
 date: 2022-06-08
 draft: false
-project_tags: ["html css js"]
+blog_tags: ["html css js"]
 status: "html css js"
 weight: 12
 summary: "We’re going to make a simple implementation of grade-school classic “rock paper scissors”.

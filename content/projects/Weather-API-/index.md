@@ -2,7 +2,7 @@
 title: "Weather API"
 date: 2022-06-11
 draft: false
-project_tags: ["html","css","js"]
+blog_tags: ["html","css","js"]
 status: "html css js"
 weight: 19
 summary: "Display  weather  of search API."

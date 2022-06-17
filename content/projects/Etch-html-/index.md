@@ -2,7 +2,7 @@
 title: "Etch & Sketch"
 date: 2022-06-10
 draft: false
-project_tags: ["html","css","js"]
+blog_tags: ["html","css","js"]
 status: "html css js"
 weight: 15
 summary: "We’re going to build a browser version of something between a sketchpad and an Etch-A-Sketch.

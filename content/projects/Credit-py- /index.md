@@ -2,7 +2,7 @@
 title: "Credit"
 date: 2022-06-08
 draft: false
-project_tags: ["python"]
+garden_tags: ["python"]
 status: "python"
 weight: 2
 summary: "Implement a program that determines whether a provided credit card number is valid according to Luhn’s algorithm.
@@ -57,7 +57,7 @@ AMEX
 ```
 
 
-<img src="./featured.png" style="max-width: 600px;" />
+<!-- <img src="./featured.png" style="max-width: 600px;" /> -->
 
 </br>
 </br>

@@ -2,7 +2,7 @@
 title: "Landing page"
 date: 2022-06-08
 draft: false
-project_tags: ["html","css"]
+blog_tags: ["html","css"]
 status: "html css"
 weight: 14
 summary: "Landing page is a standalone web page, created specifically for a marketing or advertising campaign.

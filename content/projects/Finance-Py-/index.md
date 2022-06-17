@@ -2,7 +2,7 @@
 title: "Finance"
 date: 2022-06-10
 draft: false
-project_tags: ["flask","python"]
+blog_tags: ["flask","python"]
 status: "flask python"
 weight: 11
 summary: "Implement a website via which users can “buy” and “sell” stocks.

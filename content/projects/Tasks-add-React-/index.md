@@ -2,7 +2,7 @@
 title: "Add tasks"
 date: 2022-06-14
 draft: false
-project_tags: ["react"]
+blog_tags: ["react"]
 status: "react"
 weight: 23
 summary: "We’re going to make a simple implementation of grade-school classic “rock paper scissors”.

@@ -2,7 +2,7 @@
 title: "Tic Tac Toc"
 date: 2022-06-14
 draft: false
-project_tags: ["react"]
+blog_tags: ["react"]
 status: "react"
 weight: 24
 summary: "We’re making a Tic Tac Toe game you can play in your browser!."

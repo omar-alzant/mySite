@@ -2,7 +2,7 @@
 title: "Testing -JS-"
 date: 2022-06-08
 draft: false
-project_tags: ["js"]
+blog_tags: ["js"]
 status: "js"
 weight: 20
 summary: "Let’s practice! Using ES6 import statements with Jest."

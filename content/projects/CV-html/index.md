@@ -2,7 +2,7 @@
 title: "CV"
 date: 2022-06-11
 draft: false
-project_tags: ["html css"]
+blog_tags: ["html css"]
 status: "html css"
 weight: 22
 summary: "In this project, we will be creating a small CV application.

@@ -2,7 +2,7 @@
 title: "Esp-gasLevel-"
 date: 2022-06-10
 draft: false
-project_tags: ["cpp"]
+blog_tags: ["cpp"]
 status: "cpp"
 weight: 13
 summary: "Send the level of gas sensor form esp to G-sheet & website (or IP) using IFTTT.

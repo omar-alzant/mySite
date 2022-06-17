@@ -2,7 +2,7 @@
 title: "Recover"
 date: 2022-06-08
 draft: false
-project_tags: ["cpp"]
+blog_tags: ["cpp"]
 status: "cpp"
 weight: 9
 summary: "Implement a program that recovers JPEGs from a forensic image.

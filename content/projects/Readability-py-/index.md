@@ -2,7 +2,7 @@
 title: "Readability"
 date: 2022-06-08
 draft: false
-project_tags: ["python","cpp"]
+garden_tags: ["python","cpp"]
 status: "python cpp"
 weight: 8
 summary: "Implement a program that computes the approximate grade level needed to comprehend some text, per the below."

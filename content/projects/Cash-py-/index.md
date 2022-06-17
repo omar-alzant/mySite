@@ -2,7 +2,7 @@
 title: "Cash"
 date: 2022-06-08
 draft: false
-project_tags: ["python"]
+blog_tags: ["python"]
 status: "python"
 weight: 1
 summary: "Implement a program that calculates the minimum number of coins required to give a user change.

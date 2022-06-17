@@ -2,7 +2,7 @@
 title: "Sql -Fifeties- "
 date: 2022-06-08
 draft: false
-project_tags: ["sql"]
+blog_tags: ["sql"]
 status: "sql"
 weight: 10
 summary: "Write SQL queries to solve a mystery.

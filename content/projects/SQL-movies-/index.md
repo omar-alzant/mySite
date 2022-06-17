@@ -2,7 +2,7 @@
 title: "Sql -Movies- "
 date: 2022-06-08
 draft: false
-project_tags: ["sql"]
+blog_tags: ["sql"]
 status: "sql"
 weight: 11
 summary: "Write SQL queries to answer questions about a database of movies.
