@@ -30,6 +30,14 @@ body {
   min-height: 90vh;
 }
 
+.gridItem{
+  display: grid;
+  grid-template-columns: repeat(2,35vw);
+  grid-template-rows: repeat(auto-fill,);
+  gap: 3vw;
+}
+
+
 a {
   text-decoration: underline var(--grey);
   color: var(--dark);

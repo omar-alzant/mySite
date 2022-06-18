@@ -535,11 +535,13 @@ progress {
 .container-sm,
 .container-xl,
 .container-xxl {
+  display: grid;
   width: 100%;
   padding-right: var(--bs-gutter-x, 0.75rem);
   padding-left: var(--bs-gutter-x, 0.75rem);
   margin-right: auto;
   margin-left: auto;
+
 }
 @media (min-width: 576px) {
   .container,
@@ -551,7 +553,7 @@ progress {
   .container,
   .container-md,
   .container-sm {
-    max-width: 720px;
+    max-width: 700px;
   }
 }
 @media (min-width: 992px) {
@@ -559,7 +561,7 @@ progress {
   .container-lg,
   .container-md,
   .container-sm {
-    max-width: 960px;
+    max-width: 900px;
   }
 }
 @media (min-width: 1200px) {
@@ -568,7 +570,7 @@ progress {
   .container-md,
   .container-sm,
   .container-xl {
-    max-width: 1140px;
+    max-width: 1190px;
   }
 }
 @media (min-width: 1400px) {
@@ -578,7 +580,7 @@ progress {
   .container-sm,
   .container-xl,
   .container-xxl {
-    max-width: 1320px;
+    max-width: 1380px;
   }
 }
 .row {
@@ -6564,7 +6566,7 @@ fieldset:disabled .btn {
   padding: 1.5rem !important;
 }
 .p-5 {
-  padding: 3rem !important;
+  padding: 1.5rem !important;
 }
 .px-0 {
   padding-right: 0 !important;
