@@ -113,6 +113,34 @@ table td{
   }
 } 
 
+@media only screen and (max-width: 601px) {
+  h1,h2,h3{
+    font-size: larger;
+  }  
+  h4,h5,h6,p{
+    font-size: large;
+  }
+  strong{
+    font-size: large;
+  }
+
+  pre{
+    padding: 3vw;
+  }
+  * {
+    max-width: 90vw;
+    /* margin: 0;
+    padding: 0; */
+    font-size: xx-small;
+  }
+  span{
+    font-size: xx-small;
+  }
+  li,a{
+    font-size: medium;
+  }
+}
+
 blockquote {
   font-family: var(--summary);
   padding: 10px 10px 1px 30px;
@@ -287,7 +315,7 @@ code {
 
 .main-content {
   line-height: 40px;
-  font-size: 22px;
+  font-size: 12px;
 }
 .main-content::first-letter {
   font-size: 375%;
@@ -308,8 +336,8 @@ a:hover {
   font-family: var(--headings);
   font-weight: bold;
   color: var(--dark);
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .highlight {
   line-height: normal;

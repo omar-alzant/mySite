@@ -221,14 +221,14 @@ var scope1 = function () {
 
 Simple idea :
 
-```mermaid
+{{<mermaid>}}
 graph TD
     Var-->Function-A-;
     Function-A--->Function-B-;
     Function-B--->Function-C-;
     Var-->Function-B-;
     Var-->Function-C-;
-```
+{{</mermaid>}}
 
 
 ## Scope Chain :
@@ -830,7 +830,7 @@ This book includes a number of code examples using `var`, `const` and `let`. The
     </p>
     
     
-```mermaid
+{{<mermaid>}}
 flowchart LR;
 A[Creational Design Patterns] 
 A --> B[Constructor]
@@ -839,7 +839,7 @@ A --> D[Abstract]
 A --> E[Prototype]
 A --> F[Singleton]
 A --> G[Builder]
-```
+{{</mermaid>}}
 
     
   </li>
@@ -850,7 +850,7 @@ A --> G[Builder]
       Structural patterns are concerned with object composition and typically identify simple ways to realize relationships between different objects. They help ensure that when one part of a system changes, the entire structure of the system doesn't need to do the same. They also assist in recasting parts of the system which don't fit a particular purpose into those that do.
     </p>  
     
-```mermaid
+{{<mermaid>}}
 stateDiagram-v2 
  %% DP : Design Pattern
     
@@ -859,7 +859,9 @@ StructuralDP --> Facade
 StructuralDP --> Flyweight
 StructuralDP --> Adapter
 StructuralDP --> Proxy
-```
+{{</mermaid>}}
+
+
   
   </li>
   
@@ -869,7 +871,7 @@ StructuralDP --> Proxy
       Behavioral patterns focus on improving or streamlining the communication between disparate objects in a system.
     </p>
     
-```mermaid
+{{<mermaid>}}
 flowchart LR;
     
 A[Behavioral Design Patterns] 
@@ -877,7 +879,8 @@ A --> B[Iterator]
 A --> C[Mediator]
 A --> D[Observer]
 A --> E[Visitor]
-```
+{{</mermaid>}}
+
   </li>
 </ol>
 

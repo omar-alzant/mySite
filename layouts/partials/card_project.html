@@ -2,7 +2,7 @@
 {{ range .Params.blog_tags }}
     {{ $.Scratch.Add "blog_tags_list" ( . | printf " js-iso-%s") }}
 {{ end }}
-<div class='gridItem f {{ $.Scratch.Get "blog_tags_list" }}' >
+<div class='gridItem  {{ $.Scratch.Get "blog_tags_list" }}' >
     <div class="card top-highlight">
         {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
         {{ if $img }}
