@@ -321,6 +321,21 @@ a:hover {
   border-color: var(--dark);
 }
 
+
+.card .row .col-4{
+  display: flex !important;
+  margin-top: 6vw !important;
+  flex: content !important;
+  justify-content: end !important;
+  flex-wrap: nowrap !important;
+} 
+
+
+div .card, div .col{
+  width: 20vw !important;
+  justify-self:  center !important;
+  margin:1vw;
+} 
 /********************* Footer *********************/
 
 .footer-social a,
@@ -367,13 +382,6 @@ a:hover {
     padding: 0 !important;
   }
 
-  .card .row .col-4{
-    display: flex;
-    margin-top: 6vw;
-    flex: content;
-    flex-wrap: nowrap;
-  } 
-  
   .mb-5{
     margin: 0 !important;
   }
@@ -412,8 +420,9 @@ a:hover {
   }
 
 
+
   div .card, div .col{
-    width: 50vw;
+    width: 50vw !important;
     justify-self:  center !important;
   } 
 }
