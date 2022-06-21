@@ -2,7 +2,7 @@
 title: "Portfolio"
 date: 2022-06-08
 draft: false
-blog_tags: ["html css js"]
+blog_tags: ["html", "css", "js"]
 status: "html css js"
 weight: 21
 summary: "We’re going to create a responsive personal portfolio site.”.

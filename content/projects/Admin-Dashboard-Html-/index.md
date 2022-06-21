@@ -2,8 +2,8 @@
 title: "Admin Dashboard"
 date: 2022-06-10
 draft: false
-blog_tags: ["html","css","js"]
-status: "html css js"
+blog_tags: ["html","js", "css"]
+status: "html js css"
 weight: 18
 summary: "we are going to build a full dashboard design.
 "

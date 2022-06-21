@@ -330,12 +330,11 @@ a:hover {
   flex-wrap: nowrap !important;
 } 
 
-
 div .card, div .col{
-  width: 20vw !important;
+  width: 50vw !important;
   justify-self:  center !important;
   margin:1vw;
-} 
+}
 /********************* Footer *********************/
 
 .footer-social a,
@@ -350,10 +349,7 @@ div .card, div .col{
   transition: color .5s;
 }
 
-.myrow{
-  display: grid;
-  grid-template-columns: 20vw 20vw !important;
-  }
+
 
 @media only screen and (max-width: 601px) {
   h1,h2,h3,b{
@@ -366,6 +362,11 @@ div .card, div .col{
     font-size: 3vw;
   }
 
+  div .card, div .col{
+    width: 20vw !important;
+    justify-self:  center !important;
+    margin:1vw;
+  } 
   pre{
     padding: 3vw;
   }
@@ -418,8 +419,11 @@ div .card, div .col{
   div .card img{
     max-width: 35vw;
   }
-
-
+/* 
+  .myrow{
+    display: flex !important;
+    justify-content: center !important;
+  } */
 
   div .card, div .col{
     width: 50vw !important;

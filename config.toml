@@ -6,6 +6,7 @@ themesdir = "themes/digit/"
 copyright = "Omar j Zant ©"
 
 
+
 [params]
   name = "Omar J Zant"
   description = "Full Stack web Developper."
