@@ -28,7 +28,7 @@
 
 <!-- Project Cards -->
 <div class="container">
-    <div class="gridItem "  id="blogposts">
+    <div class="myrow"   id="blogposts">
         {{ range .Pages.ByPublishDate.Reverse }}
         {{ partial "card_project.html" . }}
         {{ end }}

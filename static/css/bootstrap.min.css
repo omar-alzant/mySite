@@ -601,7 +601,10 @@ progress {
   margin-top: var(--bs-gutter-y);
 }
 .col {
-  flex: 1 0 0%;
+  display: grid;
+  grid-template-columns: repeat(2,2fr);
+  grid-template-rows: repeat(auto-fill,);
+  gap: 3vw;
 }
 .row-cols-auto > * {
   flex: 0 0 auto;
