@@ -5,7 +5,7 @@ draft: false
 blog_tags: ["react"]
 status: "react"
 weight: 26
-summary: "We’re going to make a simple Gallery, where we can add photos.”.
+summary: "We’re going to make a simple Gallery, where we can add photos.
 "
 links:
     external_link:
@@ -604,3 +604,6 @@ label:hover{
 
 
 ```
+
+</br>
+</br>

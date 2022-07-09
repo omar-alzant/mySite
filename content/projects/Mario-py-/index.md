@@ -2,8 +2,8 @@
 title: "Mario Pyramid"
 date: 2022-06-08
 draft: false
-blog_tags: ["python","cpp"]
-status: "python cpp"
+blog_tags: ["python"]
+status: "python"
 weight: 6
 summary: "Implement a program that prints out a double half-pyramid of a specified height, per the below.
 "
