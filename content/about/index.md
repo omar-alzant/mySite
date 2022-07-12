@@ -11,7 +11,7 @@ After that I start a new specializing in Web Dev, Through Online courses (CS50-i
 
 I am learning planning, reseach, workteam, and some other skills Through my educational experience, blogging and project planning.
 
-<a href="https://drive.google.com/file/d/1cAD_zB2DYQJsLvkTw3Yzq2CkJVmY89sQ/view?usp=sharing" target="_blank">My Resume</a>
+<a href="https://mycv-ojz.netlify.app/" target="_blank">My Resume</a>
 
 
 
